@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<config>
+ 
+    <bean>
+      <className>Factory</className>
+      <classPath>Creational_Pattern.Factory_Method_Pattern.LoggerFactory.DBLoggerFactory</classPath>   
+    </bean>
+
+    <bean>
+      <className>AbstractFactory</className>
+      <classPath>Creational_Pattern.Abstract_Factory_Pattern.AbstractFactory.SummerSkin</classPath>   
+    </bean>
+    
+    <bean>
+        <className>Strategy</className>
+      <classPath>Behavioral_Pattern.Strategy_pattern.Strategy.Student_Discount</classPath>   
+        
+    </bean>
+    
+</config>

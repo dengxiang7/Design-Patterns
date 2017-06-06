@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<config>
+ 
+    <bean>
+      <className>Factory</className>
+      <classPath>Creational_Pattern.Factory_Method_Pattern.LoggerFactory.DBLoggerFactory</classPath>   
+    </bean>
+
+</config>
